@@ -3,7 +3,7 @@ title: Daniel + Erin Furr - Family Blog
 baseURL: "/"
 params:
   layout_style: overflow
-  palette: green
+  palette: violet
   header:
     title: Furr Family Blog
     tagline: Header Tagline
