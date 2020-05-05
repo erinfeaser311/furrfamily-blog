@@ -1,11 +1,11 @@
 +++
-canonical_url = ""
-content_img_path = ""
+canonical_url = "/images/00100dPORTRAIT_00100_BURST20200412141723491_COVER.jpg"
+content_img_path = "/images/Snapchat-462605549.jpg"
 date = 2020-05-01T04:00:00Z
 excerpt = "A month of quarantine, working from home, and not much else"
 layout = "post"
 subtitle = "Family (mostly Selene) update"
-thumb_img_path = ""
+thumb_img_path = "/images/00100dPORTRAIT_00100_BURST20200412141723491_COVER.jpg"
 title = "April 2020"
 
 +++
