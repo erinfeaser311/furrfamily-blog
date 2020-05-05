@@ -6,7 +6,7 @@ sections:
   section_id: hero
   component: hero_block.html
   content: ''
-  title: ''
+  title: Hi! Welcome!
   actions: []
 - type: postsblock
   template: postsblock
